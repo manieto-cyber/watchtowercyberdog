@@ -1,4 +1,7 @@
-# 🛡️ Mauricio Nieto — WatchTowerCyberDog  
+
+
+
+# 🛡️ Mauricio's — WatchTowerCyberDog Blog
 ### Blue-Team Defender | SOC Analyst in Training | Threat Intel & Vulnerability Research
 
 Welcome to my cyber defense headquarters 👋  
@@ -41,7 +44,8 @@ I’m Mauricio — also known as **WatchTowerCyberDog** — a cybersecurity lear
 **Soft Skills**  
 `Analytical Mindset` `Threat Modeling` `Incident Documentation` `Continuous Research`
 
----
+-
+
 
 ## 📡 Weekly Threat Intel Focus
 
