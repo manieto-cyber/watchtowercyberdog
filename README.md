@@ -53,7 +53,7 @@ I’m Mauricio — also known as **WatchTowerCyberDog** — a cybersecurity lear
 ✅ Identity attacks + MFA abuse  
 ✅ Zero-day CVE tracking  
 ✅ Safe lab threat behavior emulations  
-✅ Mapping techniques to MITRE ATT&CK  
+✅ [Mapping techniques to MITRE ATT&CK](https://github.com/manieto-cyber/mitreattackmapping)
 
 > *Defenders must evolve as fast as attackers.*
 
