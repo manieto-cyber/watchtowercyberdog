@@ -1,7 +1,7 @@
 
 
 
-# 🛡️ Mauricio's — WatchTowerCyberDog Blog
+# <img src="https://github.com/manieto-cyber/watchtowercyberdog/blob/imgs/cyberdoglogo.jpeg" width="150" height="150">WatchTowerCyberDog Blog
 ### Blue-Team Defender | SOC Analyst in Training | Threat Intel & Vulnerability Research
 
 Welcome to my cyber defense headquarters 👋  
